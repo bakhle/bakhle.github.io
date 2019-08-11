@@ -34,7 +34,7 @@ body {
     overflow-y: hidden; }
 
 a {
-  color: #CA82F8;
+  color: #76ccc2;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -204,7 +204,7 @@ h1, h2, h3, h4, h5, h6 {
           outline: none;
           text-decoration: none; }
       #colorlib-main-nav ul li.active a {
-        color: #CA82F8; }
+        color: #76ccc2; }
   #colorlib-main-nav .form-group {
     margin-bottom: 40px;
     position: relative;
@@ -988,9 +988,9 @@ header {
     outline: none !important; }
 
 .btn-primary {
-  background: #CA82F8;
+  background: #76ccc2;
   color: #fff;
-  border: 2px solid #CA82F8; }
+  border: 2px solid #76ccc2; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     background: #d49af9 !important;
     border-color: #d49af9 !important; }
@@ -1229,7 +1229,7 @@ header {
       font-size: 16px;
       color: rgba(0, 0, 0, 0.5); }
     .contact-info li a {
-      color: #CA82F8; }
+      /*color: #CA82F8;*/ }
 
 .form-control {
   -webkit-box-shadow: none;
@@ -1261,7 +1261,7 @@ input[type="text"] {
 
 .colorlib-social-icons i {
   font-size: 24px;
-  color: #CA82F8; }
+  color: #76ccc2; }
 
 #footer {
   padding: 8em 0;
@@ -1278,7 +1278,7 @@ input[type="text"] {
     text-decoration: none !important; }
   #footer p.colorlib-social-icons i {
     font-size: 24px;
-    color: #CA82F8; }
+    color: #76ccc2; }
   #footer p .block {
     color: #1a1a1a;
     font-size: 14px; }
